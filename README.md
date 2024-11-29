@@ -8,7 +8,7 @@
 
 #### Issues
 - Wasn't able to fetch GPU details
-- Terminal only fetches $TERM env. variable and does not display the name of the application
+- Terminal only fetches $TERM env. variable and does not accurately display the name of the terminal application at times (Ex: when using tmux)
 - Shell only fetches the $SHELL env. variable and displays the path of the shell binary
 
 ##### I have no intention of trying to fix the issues that persist since a utility like this is impractical in Python because of the speed limitations of the language. 
