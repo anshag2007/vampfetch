@@ -8,6 +8,7 @@
 
 #### Issues
 - Wasn't able to fetch GPU details
+- Packages are only displayed for Arch-based distros, though that can be changed by changing the command that fetches the package list to your own distro's command
 - Terminal only fetches $TERM env. variable and does not accurately display the name of the terminal application at times (Ex: when using tmux)
 - Shell only fetches the $SHELL env. variable and displays the path of the shell binary
 
