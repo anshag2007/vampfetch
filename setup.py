@@ -21,10 +21,10 @@ setup(
     },
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: GNU GPL v3',
         'Operating System :: Linux',
     ],
-    license='MIT',  # Choose your license
-    python_requires='>=3.6',  # Python version requirement
+    license='GPL-3.0',  # Choose your license
+    python_requires='>=3.12',  # Python version requirement
 )
 
