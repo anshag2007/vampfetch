@@ -2,7 +2,7 @@
 
 ### Neofetch like utility built in Python for Linux.
 
-*This project does not aim to be a replacement to any of the already existing utilities as they are faster, better and more accurate. Mine is merely a fun project I did in 4 hours.*
+*This project does not aim to be a replacement to any of the already existing utilities as they are faster, better and more accurate. Mine is merely a fun project I did in like 2 hours.*
 
 ![example image](https://github.com/anshag2007/vampfetch/blob/master/ex.png?raw=true)
 
